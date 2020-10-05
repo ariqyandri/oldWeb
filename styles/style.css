@@ -1,0 +1,48 @@
+html {
+    font-size: 15px;
+    font-family: 'Abril Fatface', cursive;
+    background-image: url("orgbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    }
+body {
+    width: 750px;
+    margin: 100px auto;
+    padding: 0 20px 20px 20px;
+  }
+h1 {
+    font-size: 50px;
+    font-family: 'Asset', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    width: 750px;
+    text-shadow: 3px 3px 1px whitesmoke;
+}
+h2{
+    font-size: 80px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    text-shadow: 3px 3px 1px whitesmoke;
+    margin: -20px;
+}   
+p, ul, li{
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    line-height: 1;
+}
+button{
+    font-size: 15px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;  
+    margin: 40px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-height: 450px;
+    max-width: 800px;
+  }
